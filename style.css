@@ -1,0 +1,29 @@
+body {
+    background-color:darkred;
+    color: white;
+  }
+  #title,#description{
+    text-align: center;
+     margin: 20px;;
+  }
+  #nav-bar {
+    position: relative;
+    top:17cm;
+  }
+  
+  #description {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #table-head {
+    color:green;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  #t-body {
+    color: whitesmoke;
+    text-align: center;
+  }
